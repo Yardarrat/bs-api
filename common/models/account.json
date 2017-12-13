@@ -36,6 +36,13 @@
       "principalId": "$owner",
       "permission": "ALLOW",
       "property": "__destroyById__workHours"
+    },
+    {
+      "accessType": "EXECUTE",
+      "principalType": "ROLE",
+      "principalId": "$owner",
+      "permission": "ALLOW",
+      "property": "__updateById__workHours"
     }
   ],
   "methods": {}
