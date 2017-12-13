@@ -1,6 +1,12 @@
 {
   "db": {
+    "host": "",
+    "port": 0,
+    "url": "mysql://b3fdba285604d0:3a3f6f2a@us-cdbr-iron-east-05.cleardb.net/heroku_fb93788aa9e82c0?reconnect=true",
+    "database": "",
+    "password": "",
     "name": "db",
-    "connector": "memory"
+    "user": "",
+    "connector": "mysql"
   }
 }
