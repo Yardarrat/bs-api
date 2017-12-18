@@ -27,6 +27,16 @@
       "type": "boolean",
       "required": true,
       "default": false
+    },
+    "edited": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
+    "status": {
+      "type": "string",
+      "required": true,
+      "default": "pending"
     }
   },
   "validations": [],
